@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "2m2eBMk0qgdyNmt-hEfvdup6u9ra0a9ZEfZ91X-zJCxLfjOXNStvbj0QhvXyRJi9W3AKZ28NbLU-P3cUBb9RjC4rmFuJ6jKa2VcADYgUo9EXtIZ8P8vR7Dq_4oxLKPbPs8Gqz1u0HeWLTGWZE8VqpCmem4bPTxDLLr2uqEESDixqnQqTlRhhD5eluU7GvORU9VKFFQdOXO64PqeVx33z0u7JI0uBIsO3XPEHqvIIk9cPu_0UrMqGYo0zVZ90vPktWEtyWuJlnZD47chyWMeDtiBAXLl08tml-BUo1QuA6K_meGnWoQcWazc80eYzesfRVSaZ-aDlAkcl4mxm6ZWYlw",
+      "e": "AQAB",
+      "kid": "vetbridge-sandbox-1",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
